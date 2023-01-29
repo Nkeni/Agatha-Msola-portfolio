@@ -1,0 +1,40 @@
+.home {
+  .card {
+    height: 30vh;
+    background-image: url(../../images/pic1.jpg);
+    background-position: 50% 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .card-text {
+    color: black;
+  }
+
+  .about-container {
+    margin: 3rem 0;
+    height: 500px;
+
+    .about {
+      padding-top: 1rem;
+
+      .skills {
+        margin-top: 2rem;
+        .btn {
+          width: fit-content;
+          height: 40px;
+          margin: 0.2rem 0.2rem;
+          background-color: rgb(233, 141, 156);
+          border: 2px solid black;
+        }
+      }
+    }
+
+    .pic {
+      background-image: url(../../images/aggie.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      border-radius: 0.3rem;
+    }
+  }
+}

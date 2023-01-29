@@ -1,0 +1,17 @@
+.footer {
+  height: 100px;
+  background-color: rgb(223, 218, 219);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  .social {
+    .linkedin {
+      color: rgb(243, 118, 139);
+      font-size: 2rem;
+    }
+    .linkedin:hover {
+      color: white;
+    }
+  }
+}
