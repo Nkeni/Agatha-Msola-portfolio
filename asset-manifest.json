@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Agatha-Msola-portfolio/static/css/main.6d71abd1.css",
+    "main.js": "/Agatha-Msola-portfolio/static/js/main.8c626d7f.js",
+    "static/media/aggie.jpg": "/Agatha-Msola-portfolio/static/media/aggie.6fa7e917910cbf29210f.jpg",
+    "static/media/pic1.jpg": "/Agatha-Msola-portfolio/static/media/pic1.8c34f991e5e570ff3a10.jpg",
+    "static/media/contact.jpg": "/Agatha-Msola-portfolio/static/media/contact.b6d6e5ca3e7e2d39d7c9.jpg",
+    "index.html": "/Agatha-Msola-portfolio/index.html",
+    "main.6d71abd1.css.map": "/Agatha-Msola-portfolio/static/css/main.6d71abd1.css.map",
+    "main.8c626d7f.js.map": "/Agatha-Msola-portfolio/static/js/main.8c626d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d71abd1.css",
+    "static/js/main.8c626d7f.js"
+  ]
+}
