@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Agatha-Msola-portfolio/static/css/main.085bc314.css",
-    "main.js": "/Agatha-Msola-portfolio/static/js/main.cbee9a0f.js",
+    "main.css": "/Agatha-Msola-portfolio/static/css/main.69e5ad72.css",
+    "main.js": "/Agatha-Msola-portfolio/static/js/main.a2fb4fc8.js",
     "static/media/aggie.jpg": "/Agatha-Msola-portfolio/static/media/aggie.6fa7e917910cbf29210f.jpg",
     "static/media/pic1.jpg": "/Agatha-Msola-portfolio/static/media/pic1.8c34f991e5e570ff3a10.jpg",
     "static/media/journal1.png": "/Agatha-Msola-portfolio/static/media/journal1.7e43973bd6e784dcbee4.png",
     "static/media/contact.jpg": "/Agatha-Msola-portfolio/static/media/contact.b6d6e5ca3e7e2d39d7c9.jpg",
-    "static/media/port2.png": "/Agatha-Msola-portfolio/static/media/port2.8b7f4cae4f9d3ad7f855.png",
-    "static/media/port1.png": "/Agatha-Msola-portfolio/static/media/port1.56a7c38be107e8fa88f0.png",
-    "static/media/port3.png": "/Agatha-Msola-portfolio/static/media/port3.af6b6f8966f05c7c76a4.png",
+    "static/media/port22.png": "/Agatha-Msola-portfolio/static/media/port22.ff805daa032d2bf7c51a.png",
+    "static/media/port11.png": "/Agatha-Msola-portfolio/static/media/port11.c4afe14213baba5bebb3.png",
+    "static/media/port33.png": "/Agatha-Msola-portfolio/static/media/port33.a21dba6fe394d6381ede.png",
     "static/media/git2.png": "/Agatha-Msola-portfolio/static/media/git2.2fb046b01e75fca705c9.png",
-    "static/media/journal2.png": "/Agatha-Msola-portfolio/static/media/journal2.79a7c9026b34bcf4946a.png",
+    "static/media/journal22.png": "/Agatha-Msola-portfolio/static/media/journal22.2e36085f3cd6626a4a28.png",
     "static/media/git1.png": "/Agatha-Msola-portfolio/static/media/git1.eb3ba78a18801eac1b3f.png",
     "index.html": "/Agatha-Msola-portfolio/index.html",
-    "main.085bc314.css.map": "/Agatha-Msola-portfolio/static/css/main.085bc314.css.map",
-    "main.cbee9a0f.js.map": "/Agatha-Msola-portfolio/static/js/main.cbee9a0f.js.map"
+    "main.69e5ad72.css.map": "/Agatha-Msola-portfolio/static/css/main.69e5ad72.css.map",
+    "main.a2fb4fc8.js.map": "/Agatha-Msola-portfolio/static/js/main.a2fb4fc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.085bc314.css",
-    "static/js/main.cbee9a0f.js"
+    "static/css/main.69e5ad72.css",
+    "static/js/main.a2fb4fc8.js"
   ]
 }
