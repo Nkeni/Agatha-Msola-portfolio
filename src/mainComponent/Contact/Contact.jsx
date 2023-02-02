@@ -10,20 +10,16 @@ import {
 } from "react-bootstrap";
 
 function Contact() {
-  const submitHandler = (e) => {
-    e.preventDefault();
-  };
+  // const submitHandler = (e) => {
+  //   e.preventDefault();
+  // };
   return (
     <Container className="contact">
       <Row className="contact-wrapper">
         <Col xl="6" className="contact-pic"></Col>
         <Col xl="6" className="contact-form">
           <h2>Contact me</h2>
-          <Form
-            onSubmit={submitHandler}
-            method="POST"
-            action="https://formspree.io/f/xyyakjar"
-          >
+          <Form method="POST" action="https://formspree.io/f/xyyakjar">
             <ListGroup className="input-container">
               <ListGroup.Item variant="info">
                 <FormControl
@@ -53,7 +49,7 @@ function Contact() {
                 />
               </ListGroup.Item>
             </ListGroup>
-            <Button type="submit" variant="outline-dark">
+            <Button type="submit" variant="outline-dark" value="send">
               Submit
             </Button>{" "}
           </Form>

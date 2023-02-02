@@ -7,11 +7,11 @@ function Home() {
       <Card className="bg-dark text-white">
         <Card />
         <Card.ImgOverlay>
-          <Card.Text>
-            <h2>Hallo World,</h2>
-            <h1>I am Agatha A Msola</h1>
-            <h2>FullStack Web Developer</h2>
-          </Card.Text>
+          {/* <Card.Text> */}
+          <h2>Hallo World,</h2>
+          <h1>I am Agatha A Msola</h1>
+          <h2>FullStack Web Developer</h2>
+          {/* </Card.Text> */}
         </Card.ImgOverlay>
       </Card>
 

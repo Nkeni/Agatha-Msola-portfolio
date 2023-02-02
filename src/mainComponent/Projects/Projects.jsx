@@ -1,10 +1,10 @@
 import "./Projects.scss";
 import { Container, Row, Button, Col, Carousel } from "react-bootstrap";
-import port1 from "../../images/port1.png";
-import port2 from "../../images/port2.png";
-import port3 from "../../images/port3.png";
+import port1 from "../../images/port11.png";
+import port2 from "../../images/port22.png";
+import port3 from "../../images/port33.png";
 import journ1 from "../../images/journal1.png";
-import journ2 from "../../images/journal2.png";
+import journ2 from "../../images/journal22.png";
 import git1 from "../../images/git1.png";
 import git2 from "../../images/git2.png";
 
@@ -13,11 +13,28 @@ function Projects() {
     <Container className="projects">
       <Row className="project-details">
         <Col xl="5">
+          <h3>Personal Portfolio</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda
-            atque sint velit explicabo accusantium iusto dolore odio eaque
-            quidem aperiam!
+            A personal portfolio website for my husband (Bob Kyeyune). All his
+            research papers will be uploaded here.
           </p>
+          <Button>
+            <a
+              href="https://nkeni.github.io/Bob-react-portfolio/"
+              target="blank"
+            >
+              Live demo
+            </a>
+          </Button>
+          <Button>
+            {" "}
+            <a
+              href="https://github.com/Nkeni/Bob-react-portfolio"
+              target="blank"
+            >
+              Source code
+            </a>
+          </Button>
         </Col>
         <Col xl="7" className="project-pictures">
           <Carousel>
@@ -41,11 +58,22 @@ function Projects() {
 
       <Row className="project-details">
         <Col xl="5">
+          <h3>Journaling App</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda
-            atque sint velit explicabo accusantium iusto dolore odio eaque
-            quidem aperiam!
+            A simple journaling app for writing contents. I used some ideas from
+            todo list apps.
           </p>
+          <Button>
+            <a href="https://nkeni.github.io/Journal-React/" target="blank">
+              Live demo
+            </a>
+          </Button>
+          <Button>
+            {" "}
+            <a href="https://github.com/Nkeni/Journal-React" target="blank">
+              Source code
+            </a>
+          </Button>
         </Col>
         <Col xl="7">
           <Carousel>
@@ -66,11 +94,28 @@ function Projects() {
 
       <Row className="project-details">
         <Col xl="5">
+          <h3>Github User Search App</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda
-            atque sint velit explicabo accusantium iusto dolore odio eaque
-            quidem aperiam!
+            A simple app to search for a github user. I used a github API in the
+            backend to send the response in the front end.
           </p>
+          <Button>
+            <a
+              href="https://github.com/Nkeni/backend-fetch-api-project"
+              target="blank"
+            >
+              Live demo
+            </a>
+          </Button>
+          <Button>
+            {" "}
+            <a
+              href="https://github.com/Nkeni/backend-fetch-api-project"
+              target="blank"
+            >
+              Source code
+            </a>
+          </Button>
         </Col>
         <Col xl="7">
           <Carousel>
