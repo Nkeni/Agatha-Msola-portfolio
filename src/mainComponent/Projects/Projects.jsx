@@ -7,10 +7,50 @@ import journ1 from "../../images/journal1.png";
 import journ2 from "../../images/journal22.png";
 import git1 from "../../images/git1.png";
 import git2 from "../../images/git2.png";
+import game from "../../images/game.png";
 
 function Projects() {
   return (
     <Container className="projects">
+      <Row className="project-details">
+        <Col xl="5">
+          <h3>Memory Game</h3>
+          <p>
+            A simple game to challenge your memory. When you refresh the page,
+            images are displayed for 1 second. You have to drag the correct word
+            to the image position to check if it is correct.
+          </p>
+          <Button>
+            <a href="https://nkeni.github.io/Memory-game/" target="blank">
+              Live demo
+            </a>
+          </Button>
+          <Button>
+            {" "}
+            <a href="https://github.com/Nkeni/Memory-game" target="blank">
+              Source code
+            </a>
+          </Button>
+        </Col>
+        <Col xl="7" className="project-pictures">
+          <Carousel>
+            <Carousel.Item>
+              <img
+                style={{ maxHeight: "100vh" }}
+                className="d-block w-100"
+                src={game}
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img className="d-block w-100" src={game} alt="Second slide" />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img className="d-block w-100" src={game} alt="Third slide" />
+            </Carousel.Item>
+          </Carousel>
+        </Col>
+      </Row>
       <Row className="project-details">
         <Col xl="5">
           <h3>Personal Portfolio</h3>

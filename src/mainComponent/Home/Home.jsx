@@ -20,12 +20,21 @@ function Home() {
         <Col xl="6" className="about">
           <h3>About me</h3>
           <p>
-            I am a FullStack Developer with a background in mathematics and
-            statistics. One of the best decisions I have ever made was to join
-            Digital Career Institute for the training program in FullStack Web
-            Development. I can really see a bright future ahead of me
-            careerwise. I have acquired Technical skills, soft skills and
-            language skills at DCI. I am so excited of what future brings.
+            I'm a full-stack developer with extensive experience in the MERN
+            stack. I have a strong background in developing web applications
+            using MongoDB, Express.js, React.js, and Node.js. I'm passionate
+            about creating efficient and scalable solutions that deliver
+            exceptional user experiences. On the front-end, I'm proficient in
+            building responsive and interactive user interfaces using modern
+            JavaScript frameworks like React.js. I have a deep understanding of
+            component-based architecture and leveraging the latest web
+            development technologies and best practices.
+          </p>
+          <p>
+            When it comes to the back-end, I have a solid grasp of server-side
+            development using Node.js and Express.js. I'm experienced in
+            designing and developing RESTful APIs, integrating third-party APIs,
+            and handling data persistence with MongoDB.
           </p>
 
           <div className="skills">
