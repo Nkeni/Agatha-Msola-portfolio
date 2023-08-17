@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Agatha-Msola-portfolio/static/css/main.d2f93dba.css",
+    "main.css": "/Agatha-Msola-portfolio/static/css/main.e9f7b2dc.css",
     "main.js": "/Agatha-Msola-portfolio/static/js/main.daab1bfe.js",
     "static/media/aggie.jpg": "/Agatha-Msola-portfolio/static/media/aggie.6fa7e917910cbf29210f.jpg",
     "static/media/pic1.jpg": "/Agatha-Msola-portfolio/static/media/pic1.8c34f991e5e570ff3a10.jpg",
@@ -14,11 +14,11 @@
     "static/media/game.png": "/Agatha-Msola-portfolio/static/media/game.a7e4616a7e1895c3bf0a.png",
     "static/media/git1.png": "/Agatha-Msola-portfolio/static/media/git1.eb3ba78a18801eac1b3f.png",
     "index.html": "/Agatha-Msola-portfolio/index.html",
-    "main.d2f93dba.css.map": "/Agatha-Msola-portfolio/static/css/main.d2f93dba.css.map",
+    "main.e9f7b2dc.css.map": "/Agatha-Msola-portfolio/static/css/main.e9f7b2dc.css.map",
     "main.daab1bfe.js.map": "/Agatha-Msola-portfolio/static/js/main.daab1bfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2f93dba.css",
+    "static/css/main.e9f7b2dc.css",
     "static/js/main.daab1bfe.js"
   ]
 }
