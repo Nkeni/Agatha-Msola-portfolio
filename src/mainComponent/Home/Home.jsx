@@ -16,8 +16,38 @@ function Home() {
       </Card>
 
       <Row className="about-container">
-        <Col xl="6" className="pic"></Col>
         <Col xl="6" className="about">
+          <h4>Facts about me</h4>
+          <p>
+            <i class="fa-solid fa-heart"></i> I'm passionate about creating
+            efficient and scalable solutions that deliver exceptional user
+            experiences.
+          </p>
+          <p>
+            <i class="fa-solid fa-briefcase"></i> Extensive experience in the
+            MERN stack
+          </p>
+          <p>
+            <i class="fas fa-award"></i> Excel in both Front End and Back End
+            Development
+          </p>
+        </Col>
+        <Col xl="6" className="skills">
+          <h4>
+            <i class="fa-solid fa-screwdriver-wrench"></i> Skills
+          </h4>
+          <Button>JS</Button>
+          <Button>CSS</Button>
+          <Button>SASS</Button>
+          <Button>HTML</Button>
+          <Button>REACT</Button>
+          <Button>NODEJS</Button>
+          <Button>EXPRESS</Button>
+          <Button>MONGODB</Button>
+          <Button>BOOTSTRAP</Button>
+        </Col>
+        {/* <Col xl="6" className="pic"></Col> */}
+        {/* <Col xl="6" className="about">
           <h3>About me</h3>
           <p>
             I'm a full-stack developer with extensive experience in the MERN
@@ -35,9 +65,9 @@ function Home() {
             development using Node.js and Express.js. I'm experienced in
             designing and developing RESTful APIs, integrating third-party APIs,
             and handling data persistence with MongoDB.
-          </p>
+          </p> */}
 
-          <div className="skills">
+        {/* <div className="skills">
             <h3>Skills</h3>
             <Button>JS</Button>
             <Button>CSS</Button>
@@ -47,8 +77,8 @@ function Home() {
             <Button>EXPRESS</Button>
             <Button>MONGODB</Button>
             <Button>BOOTSTRAP</Button>
-          </div>
-        </Col>
+          </div> */}
+        {/* </Col> */}
       </Row>
     </Container>
   );
